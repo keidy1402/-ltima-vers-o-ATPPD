@@ -1,0 +1,35 @@
+POLÍTICA DE PRIVACIDADE – TIKTOK
+Última atualização: 2024
+
+1. INFORMAÇÕES COLETADAS
+O TikTok coleta informações fornecidas pelo usuário como nome, e-mail, número de telefone, data de nascimento, biografia, fotos e vídeos publicados. Coleta automaticamente uma quantidade extensa de dados, incluindo tipo de dispositivo, endereço IP, localização precisa, identificadores únicos de hardware, operadora, sistema operacional, interações com conteúdo, tempo de uso, movimentos do mouse, pressionamento de teclas, cookies, pixels de rastreamento, conteúdo da área de transferência, lista de contatos e contas de redes sociais vinculadas.
+
+2. COMPARTILHAMENTO DE DADOS
+O TikTok compartilha dados com empresas do grupo ByteDance globalmente. Dados são compartilhados com anunciantes, parceiros de análise, provedores de infraestrutura de nuvem, agências de pesquisa e autoridades governamentais. Informações de perfil público e vídeos são visíveis globalmente. O TikTok compartilha dados com terceiros para verificação de idade e moderação de conteúdo.
+
+3. ARMAZENAMENTO E RETENÇÃO
+Os dados de usuários fora dos EUA podem ser armazenados em servidores nos Estados Unidos, Singapura e Malásia. Dados de usuários europeus são armazenados na Europa. As informações são mantidas enquanto a conta estiver ativa e por até 30 dias após exclusão. Dados de backups podem persistir por até 90 dias. O TikTok retém logs de interação por até 18 meses.
+
+4. USO DOS DADOS
+Os dados são utilizados para personalizar o feed "Para Você", recomendar conteúdo com base em comportamento, exibir anúncios direcionados, melhorar algoritmos de inteligência artificial, moderar conteúdo, desenvolver novos recursos, realizar pesquisas de mercado, garantir segurança e cumprir obrigações legais.
+
+5. DIREITOS DO USUÁRIO
+Usuários podem baixar seus dados, configurar conta privada, controlar quem pode comentar e enviar mensagens, gerenciar permissões de localização e desativar anúncios personalizados. É possível solicitar exclusão de dados através das configurações.
+
+6. SEGURANÇA
+O TikTok implementa criptografia em trânsito e em repouso, autenticação de dois fatores, detecção de atividades suspeitas e moderação automatizada de conteúdo. A plataforma tem enfrentado escrutínio regulatório em diversos países devido a preocupações com segurança de dados e influência estrangeira.
+
+7. RECONHECIMENTO FACIAL E BIOMETRIA
+O TikTok utiliza reconhecimento facial para aplicar filtros e efeitos de realidade aumentada. Dados faciais são processados em tempo real no dispositivo e geralmente não são armazenados permanentemente. A plataforma pode criar mapas faciais para melhorar efeitos.
+
+8. RASTREAMENTO E PERFIL COMPORTAMENTAL
+O TikTok realiza rastreamento extensivo do comportamento do usuário, incluindo tempo gasto em cada vídeo, taxa de conclusão, interações (curtidas, compartilhamentos, comentários), padrões de navegação e reengajamento. Esses dados alimentam algoritmos de recomendação altamente precisos.
+
+9. PUBLICIDADE PERSONALIZADA
+O TikTok utiliza dados de comportamento, interesses, localização e dados demográficos para publicidade direcionada. Anunciantes podem segmentar públicos com base em categorias de interesse. Usuários podem limitar a personalização de anúncios.
+
+10. COLETA DE DADOS SENSÍVEIS
+O TikTok pode coletar informações de saúde, religião, orientação sexual e política através de interações com conteúdo, desde que permitido por lei. A plataforma afirma tomar medidas para proteger dados sensíveis.
+
+11. ALTERAÇÕES NA POLÍTICA
+Alterações na política são comunicadas por notificações no aplicativo e e-mail. O TikTok recomenda revisão periódica das configurações de privacidade.

@@ -1,0 +1,35 @@
+POLÍTICA DE PRIVACIDADE – TWITTER/X
+Última atualização: 2024
+
+1. INFORMAÇÕES COLETADAS
+O Twitter/X coleta informações fornecidas pelo usuário como nome, e-mail, número de telefone, data de nascimento, nome de usuário, biografia, foto de perfil, tweets, retweets, curtidas, listas e mensagens diretas. Coleta automaticamente dados de dispositivo, endereço IP, tipo de navegador, sistema operacional, localização precisa ou aproximada, cookies, pixels de rastreamento, identificadores de publicidade, sites visitados com integração Twitter, interações com anúncios, tempo de uso e informações de rede.
+
+2. COMPARTILHAMENTO DE DADOS
+O Twitter/X compartilha dados com empresas do grupo X Corp. Dados são compartilhados com anunciantes, parceiros de análise, provedores de medição, desenvolvedores terceiros (através da API), instituições acadêmicas, pesquisadores e autoridades legais. Tweets públicos e dados de perfil estão disponíveis para qualquer pessoa. O Twitter compartilha dados anonimizados com parceiros para pesquisa.
+
+3. ARMAZENAMENTO E RETENÇÃO
+Os dados são armazenados em servidores nos Estados Unidos e internacionalmente. As informações são mantidas enquanto a conta estiver ativa. Tweets excluídos podem permanecer em backups e sistemas de cache por até 30 dias. Dados de interação com anúncios são retidos por até 18 meses. O Twitter oferece períodos de retenção variáveis para diferentes tipos de dados.
+
+4. USO DOS DADOS
+Os dados são utilizados para personalizar a timeline, exibir anúncios relevantes, recomendar conteúdo e conexões, melhorar algoritmos de recomendação, treinar modelos de inteligência artificial, moderar conteúdo, detectar spam, analisar tendências, realizar pesquisas e cumprir obrigações legais.
+
+5. DIREITOS DO USUÁRIO
+Usuários podem acessar, baixar e excluir seus dados através das configurações. É possível proteger tweets (conta privada), controlar quem pode mencionar e enviar mensagens, gerenciar aplicativos conectados, desativar anúncios personalizados e controlar tags de localização em tweets.
+
+6. SEGURANÇA
+O Twitter/X oferece autenticação de dois fatores (incluindo chave de segurança física), criptografia em trânsito, monitoramento de login suspeito e verificação de conta. Mensagens diretas podem ser criptografadas. A plataforma possui histórico de incidentes de segurança, incluindo ataques de engenharia social.
+
+7. INTELIGÊNCIA ARTIFICIAL E DADOS DE TREINAMENTO
+O Twitter/X utiliza dados públicos de tweets para treinar modelos de inteligência artificial, incluindo o Grok. Usuários podem optar por não permitir que seus dados sejam usados para treinamento de IA através das configurações de privacidade.
+
+8. PUBLICIDADE PERSONALIZADA
+O Twitter/X utiliza dados de interesses, seguidores, tweets curtidos, localização e comportamento de navegação para segmentação de anúncios. Anunciantes podem segmentar públicos com base em palavras-chave, interesses e eventos. Usuários podem limitar a personalização de anúncios.
+
+9. RASTREAMENTO ENTRE PLATAFORMAS
+O Twitter/X rastreia a atividade dos usuários em sites parceiros através de botões de compartilhamento, tweets incorporados e pixels da plataforma. Esses dados são utilizados para melhorar recomendações e segmentação de anúncios.
+
+10. COMPARTILHAMENTO COM TERCEIROS
+Desenvolvedores podem acessar dados públicos através da API do Twitter/X. Pesquisadores acadêmicos têm acesso a dados para estudos. O Twitter compartilha dados com prestadores de serviços que processam informações em nome da plataforma.
+
+11. ALTERAÇÕES NA POLÍTICA
+Alterações na política de privacidade são comunicadas por e-mail e através do centro de ajuda. O Twitter/X recomenda revisão periódica das configurações de privacidade e segurança.

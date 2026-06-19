@@ -1,0 +1,26 @@
+POLÍTICA DE PRIVACIDADE – WHATSAPP
+Última atualização: 2024
+
+1. INFORMAÇÕES COLETADAS
+O WhatsApp coleta informações fornecidas diretamente pelo usuário, como número de telefone, nome de perfil, foto e status. Também coleta automaticamente dados de uso, incluindo endereço IP, tipo de dispositivo, sistema operacional, navegador, operadora, idioma, identificadores de publicidade e registros de uso do serviço. Metadados das mensagens (horário de envio, destinatário) também são coletados, mas o conteúdo das mensagens é protegido por criptografia de ponta a ponta.
+
+2. COMPARTILHAMENTO DE DADOS
+O WhatsApp compartilha informações com empresas do grupo Meta (Facebook, Instagram). Dados podem ser compartilhados para integração de serviços, publicidade personalizada, segurança e combate a spam. Informações anônimas ou agregadas podem ser compartilhadas com parceiros de negócios. O WhatsApp não compartilha o conteúdo das mensagens criptografadas com terceiros.
+
+3. ARMAZENAMENTO E RETENÇÃO
+Os dados são armazenados em servidores nos Estados Unidos e em outros países. As informações são mantidas enquanto a conta estiver ativa e por um período razoável após o encerramento, conforme exigências legais. Usuários podem solicitar a exclusão dos dados.
+
+4. USO DOS DADOS
+Os dados são utilizados para operar, melhorar e personalizar os serviços; realizar pesquisas; garantir segurança; cumprir obrigações legais; e exibir anúncios personalizados no Facebook e Instagram. O WhatsApp também utiliza dados para sugestões de contas e integração com outros produtos Meta.
+
+5. DIREITOS DO USUÁRIO
+Usuários podem acessar, corrigir, exportar e excluir seus dados através das configurações do aplicativo. É possível limitar o compartilhamento de dados com o Facebook. O usuário tem direito de se opor ao processamento de dados para publicidade personalizada.
+
+6. SEGURANÇA
+O WhatsApp utiliza criptografia de ponta a ponta para proteger o conteúdo das mensagens. Medidas técnicas e organizacionais são implementadas para proteger os dados contra acesso não autorizado, incluindo firewalls, sistemas de detecção de intrusão e criptografia em trânsito.
+
+7. TRANSFERÊNCIAS INTERNACIONAIS
+Os dados podem ser transferidos e processados globalmente, incluindo nos Estados Unidos e em outros países onde a Meta opera. O WhatsApp utiliza cláusulas contratuais padrão como mecanismo de transferência.
+
+8. ALTERAÇÕES NA POLÍTICA
+O WhatsApp notifica os usuários sobre alterações significativas na política de privacidade através do aplicativo e por e-mail. Alterações entram em vigor 30 dias após a notificação.

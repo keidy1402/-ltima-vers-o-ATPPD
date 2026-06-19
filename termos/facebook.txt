@@ -1,0 +1,32 @@
+POLÍTICA DE PRIVACIDADE – FACEBOOK
+Última atualização: 2024
+
+1. INFORMAÇÕES COLETADAS
+O Facebook coleta informações fornecidas pelo usuário como nome, e-mail, número de telefone, data de nascimento, gênero, formação acadêmica, experiência profissional, relacionamentos, interesses e conteúdo compartilhado (publicações, fotos, vídeos, comentários). Coleta automaticamente dados de dispositivo, endereço IP, localização precisa, cookies, pixels de rastreamento, páginas visitadas, interações com anúncios, conexões de rede e identificadores de hardware.
+
+2. COMPARTILHAMENTO DE DADOS
+O Facebook compartilha dados extensivamente com empresas do grupo Meta (Instagram, WhatsApp, Messenger, Quest). Dados são compartilhados com anunciantes, parceiros de dados, desenvolvedores de terceiros, instituições acadêmicas e autoridades governamentais. Informações públicas estão disponíveis para qualquer pessoa na plataforma. O Facebook compartilha dados com vendedores de dados e corretores de informações.
+
+3. ARMAZENAMENTO E RETENÇÃO
+Os dados são armazenados globalmente em servidores próprios e de terceiros. As informações são mantidas enquanto a conta existir e por até 90 dias após exclusão. Dados de backups podem persistir por mais tempo. O Facebook retém logs de atividade por até 18 meses.
+
+4. USO DOS DADOS
+Os dados são utilizados para personalizar a experiência, exibir anúncios altamente direcionados, recomendar conteúdo e conexões, melhorar algoritmos de machine learning, desenvolver produtos de realidade virtual e aumentada, realizar pesquisas comportamentais, combater spam e cumprir obrigações legais.
+
+5. DIREITOS DO USUÁRIO
+Usuários podem acessar, baixar, corrigir e excluir seus dados através das configurações. É possível controlar preferências de anúncios, desativar reconhecimento facial, limitar compartilhamento com parceiros e gerenciar permissões de aplicativos de terceiros.
+
+6. SEGURANÇA
+O Facebook oferece autenticação em dois fatores, criptografia em trânsito, monitoramento de login suspeito e verificação de identidade. Histórico de violações de dados demonstra que a plataforma já enfrentou incidentes significativos de segurança, incluindo vazamento de dados de milhões de usuários.
+
+7. RECONHECIMENTO FACIAL E BIOMETRIA
+O Facebook utiliza reconhecimento facial para sugerir marcações, verificar identidade e detectar uso não autorizado de imagens. Dados de reconhecimento facial podem ser usados para treinar algoritmos de inteligência artificial.
+
+8. RASTREAMENTO ENTRE SITES
+O Facebook rastreia a atividade dos usuários em outros sites através de pixels, plugins sociais (curtir, compartilhar) e cookies. Esses dados são utilizados para criar perfis comportamentais detalhados e segmentação de anúncios.
+
+9. PUBLICIDADE E PERFIL COMPORTAMENTAL
+O Facebook constrói perfis detalhados dos usuários baseados em interesses, comportamentos, localização, dados demográficos e atividade online para direcionamento de anúncios. Milhares de categorias de segmentação estão disponíveis para anunciantes.
+
+10. ALTERAÇÕES NA POLÍTICA
+Mudanças significativas são comunicadas por e-mail, notificações e publicações no blog de privacidade. O Facebook incentiva revisão periódica das configurações de privacidade.

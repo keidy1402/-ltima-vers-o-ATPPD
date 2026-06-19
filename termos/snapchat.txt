@@ -1,0 +1,35 @@
+POLÍTICA DE PRIVACIDADE – SNAPCHAT
+Última atualização: 2024
+
+1. INFORMAÇÕES COLETADAS
+O Snapchat coleta informações fornecidas pelo usuário como nome, e-mail, número de telefone, data de nascimento, nome de usuário, fotos, vídeos, mensagens e stories. Coleta automaticamente dados de dispositivo, endereço IP, localização precisa, cookies, identificadores de publicidade, tipo de navegador, operadora, sistema operacional, metadados de snaps (horário, destinatário), interações com lentes e filtros, movimento ocular e expressões faciais para filtros de realidade aumentada.
+
+2. COMPARTILHAMENTO DE DADOS
+O Snapchat compartilha dados com empresas do grupo Snap Inc. Dados são compartilhados com anunciantes, parceiros de análise, provedores de infraestrutura, desenvolvedores de terceiros (através do Snap Kit), agências de pesquisa e autoridades legais. Conteúdo público como stories e Spotlight pode ser republicado por parceiros de mídia.
+
+3. ARMAZENAMENTO E RETENÇÃO
+Os dados são armazenados em servidores nos Estados Unidos e em outros países onde a Snap opera. O conteúdo dos snaps é automaticamente excluído dos servidores após a visualização (salvo quando salvo no Chat ou Memories). Dados de conta são mantidos enquanto ativos e por até 30 dias após exclusão. Registros de chat não salvos são removidos após 24 horas.
+
+4. USO DOS DADOS
+Os dados são utilizados para operar e melhorar os serviços, personalizar lentes e filtros, recomendar conteúdo no Discover, exibir anúncios no Snapchat Ads, desenvolver inteligência artificial para realidade aumentada, realizar pesquisas, garantir segurança, combater spam e cumprir obrigações legais.
+
+5. DIREITOS DO USUÁRIO
+Usuários podem acessar, baixar e excluir seus dados. É possível configurar quem pode enviar snaps, visualizar stories, ver localização no Snap Map e enviar mensagens. Usuários podem desativar anúncios personalizados e controlar permissões de localização.
+
+6. SEGURANÇA
+O Snapchat oferece autenticação de dois fatores, criptografia em trânsito, notificações de login suspeito e verificação de dispositivo. A plataforma possui programa de recompensas por descoberta de vulnerabilidades. Mensagens temporárias são uma camada adicional de privacidade.
+
+7. SNAP MAP E LOCALIZAÇÃO
+O Snap Map permite que usuários compartilhem sua localização em tempo real com amigos. A localização precisa só é compartilhada se o usuário autorizar. É possível ativar o modo fantasma para ocultar a localização. O Snapchat coleta dados de localização mesmo quando o aplicativo está em segundo plano.
+
+8. LENTES E REALIDADE AUMENTADA
+O Snapchat utiliza reconhecimento facial e análise de expressões para aplicar lentes e filtros. Dados faciais são processados no dispositivo sempre que possível. A Snap desenvolve modelos de IA usando dados anônimos de uso de lentes.
+
+9. PUBLICIDADE PERSONALIZADA
+O Snapchat utiliza dados de interação, localização, interesses e dados demográficos para segmentação de anúncios. Anunciantes podem criar públicos personalizados. O Snapchat oferece ferramentas de atribuição de anúncios que rastreiam conversões.
+
+10. TERCEIROS E SNAP KIT
+Através do Snap Kit, desenvolvedores terceiros podem acessar dados do Snapchat como Bitmoji, informações de perfil e amigos em comum. Usuários controlam quais permissões conceder a aplicativos conectados.
+
+11. ALTERAÇÕES NA POLÍTICA
+Alterações na política de privacidade são comunicadas por e-mail e notificações no aplicativo. A Snap recomenda que usuários revisem regularmente suas configurações de privacidade.

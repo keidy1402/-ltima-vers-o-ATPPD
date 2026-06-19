@@ -1,0 +1,29 @@
+POLÍTICA DE PRIVACIDADE – INSTAGRAM
+Última atualização: 2024
+
+1. INFORMAÇÕES COLETADAS
+O Instagram coleta informações fornecidas pelo usuário como nome, e-mail, número de telefone, biografia, fotos, vídeos e stories. Coleta automaticamente dados de atividade, incluindo interações, conteúdo visualizado, tempo de uso, dispositivo, localização precisa (se autorizada), endereço IP, tipo de navegador, cookies, pixels de rastreamento e identificadores de publicidade. O Instagram também coleta informações de contatos do dispositivo para sugerir amigos.
+
+2. COMPARTILHAMENTO DE DADOS
+O Instagram compartilha dados amplamente com empresas do grupo Meta (Facebook, WhatsApp, Messenger). Dados são compartilhados com anunciantes, parceiros de medição, provedores de análise e instituições de pesquisa. Informações públicas (perfil, fotos, seguidores) são visíveis para todos. Dados podem ser compartilhados para cumprimento de obrigações legais.
+
+3. ARMAZENAMENTO E RETENÇÃO
+Os dados são armazenados em servidores nos Estados Unidos e internacionalmente. As informações são retidas enquanto a conta estiver ativa e por até 90 dias após solicitação de exclusão, podendo ser estendido por exigências legais. Conteúdo excluído pode permanecer em backups por até um ano.
+
+4. USO DOS DADOS
+Os dados são usados para personalizar o feed, exibir anúncios direcionados, recomendar conteúdo, melhorar algoritmos, desenvolver novos recursos, garantir segurança, realizar pesquisas e cumprir obrigações legais. O Instagram utiliza inteligência artificial para moderar conteúdo, sugerir filtros e organizar o feed.
+
+5. DIREITOS DO USUÁRIO
+Usuários podem baixar seus dados, ajustar configurações de privacidade, desativar rastreamento de atividades, controlar quem pode ver suas postagens e gerenciar permissões de aplicativos conectados. É possível desativar a localização precisa e limitar compartilhamento com o Facebook.
+
+6. SEGURANÇA
+O Instagram implementa criptografia em trânsito, autenticação de dois fatores, monitoramento de atividades suspeitas e sistemas de detecção de invasão. Recomenda-se que usuários ativem verificação em duas etapas e revisem dispositivos conectados regularmente.
+
+7. RECONHECIMENTO FACIAL E BIOMETRIA
+O Instagram utiliza tecnologias de reconhecimento facial para sugerir marcações em fotos e detectar rostos em conteúdos. Usuários podem desativar sugestões de marcação facial. Dados biométricos podem ser processados para verificação de identidade.
+
+8. PUBLICIDADE PERSONALIZADA
+O Instagram utiliza dados de navegação, interesses, interações e localização para exibir anúncios personalizados. Parceiros de publicidade podem enviar dados ao Instagram para segmentação. Usuários podem controlar preferências de anúncios nas configurações.
+
+9. ALTERAÇÕES NA POLÍTICA
+Alterações na política de privacidade são comunicadas por e-mail e notificações no aplicativo. O Instagram incentiva os usuários a revisarem a política periodicamente.

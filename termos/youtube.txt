@@ -1,0 +1,32 @@
+POLÍTICA DE PRIVACIDADE – YOUTUBE
+Última atualização: 2024
+
+1. INFORMAÇÕES COLETADAS
+O YouTube (Google) coleta informações fornecidas pelo usuário como nome, e-mail, foto de perfil, data de nascimento, número de telefone e conteúdo enviado (vídeos, comentários, avaliações). Coleta automaticamente dados de visualização, histórico de pesquisa, interações com anúncios, tipo de dispositivo, endereço IP, localização aproximada, cookies, identificadores de publicidade, duração das sessões e qualidade de conexão.
+
+2. COMPARTILHAMENTO DE DADOS
+O YouTube compartilha dados com empresas do Google (Google Ads, Google Cloud, Chrome, Android, Gmail, Google Maps). Dados são compartilhados com anunciantes, criadores de conteúdo (através do YouTube Analytics), parceiros de medição, provedores de análise e autoridades legais. Informações como curtidas, inscrições e comentários são públicas.
+
+3. ARMAZENAMENTO E RETENÇÃO
+Os dados são armazenados em servidores do Google globalmente, com forte presença nos Estados Unidos. As informações são retidas enquanto a conta estiver ativa. Histórico de pesquisa e localização podem ser configurados para exclusão automática a cada 3, 18 ou 36 meses. Conteúdo excluído pode permanecer em backups por até 180 dias.
+
+4. USO DOS DADOS
+Os dados são utilizados para recomendar vídeos, personalizar a página inicial, exibir anúncios direcionados, melhorar algoritmos de recomendação, desenvolver inteligência artificial, moderar conteúdo, realizar análises de audiência, garantir segurança e cumprir obrigações legais.
+
+5. DIREITOS DO USUÁRIO
+Usuários podem acessar, exportar e excluir dados através do Google Takeout. É possível pausar ou excluir histórico de pesquisa e localização. Configurações de anúncios podem ser ajustadas para limitar personalização. Controles dos pais estão disponíveis para contas de crianças.
+
+6. SEGURANÇA
+O YouTube utiliza criptografia em trânsito, verificação em duas etapas, monitoramento automatizado de conteúdo e detecção de atividades incomuns. A plataforma possui processos de revisão de conteúdo e moderação baseada em inteligência artificial.
+
+7. PUBLICIDADE PERSONALIZADA
+O YouTube utiliza histórico de visualização, pesquisa, localização e dados demográficos para exibir anúncios relevantes. Para usuários menores de 18 anos, a personalização de anúncios é limitada. Anunciantes podem segmentar públicos com base em interesses e comportamentos.
+
+8. YOUTUBE KIDS
+O YouTube Kids coleta dados limitados de crianças, incluindo histórico de pesquisa e visualização. Não são exibidos anúncios personalizados. Pais podem controlar configurações e visualizar histórico de atividade.
+
+9. INTELIGÊNCIA ARTIFICIAL
+O YouTube utiliza IA para recomendar conteúdo, detectar violações de direitos autorais, moderar comentários, gerar legendas automáticas, sugerir miniaturas e identificar conteúdos inadequados. Dados de usuários alimentam o treinamento desses modelos.
+
+10. ALTERAÇÕES NA POLÍTICA
+Alterações na política de privacidade são comunicadas por e-mail e através do Centro de Privacidade do Google. O YouTube recomenda que usuários revisem as configurações de privacidade regularmente.
